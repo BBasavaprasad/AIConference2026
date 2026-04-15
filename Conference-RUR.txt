@@ -1,0 +1,505 @@
+None selected 
+
+Skip to content
+Using Gmail with screen readers
+in:sent
+1 of 985
+International Conference Code
+
+Dr Basavaprasad Benchamardimath <drbasavaprasadb@gmail.com>
+Attachments
+Tue, Apr 14, 10:02 AM (1 day ago)
+to ravi
+
+
+Dr. BASAVAPRASAD B
+Associate Professor & HOD
+Dept. of Computer Science
+Govt. Degree College, YADGIRI - 585202, Karnataka, India
+Coordinator - RUSA
+Coordinator - EBSB (Ek Bharat Shreshtha Bharat)
+Email: b.basavaprasad@gmail.com, b.basavaprasad@yahoo.co.in
+ADMA Lifetime Member
+CSI Lifetime Member
+IAENG Member
+ORCID: 0000-0002-3936-2186
+Global Change Maker from India @ Sustainable Cosmos
+ResearchGate Member
+ One attachment
+  •  Scanned by Gmail
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI & Next Gen Impact 2026 | Sri Adikavi Maharshi Valmiki University</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+        .hero-gradient {
+            background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 50%, #60a5fa 100%);
+        }
+        .glass-morphism {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        .deadline-card:hover {
+            transform: translateY(-5px);
+            transition: all 0.3s ease;
+        }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-900">
+
+    <!-- Navigation -->
+    <nav class="fixed w-full z-50 glass-morphism shadow-sm">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-20">
+                <div class="flex items-center">
+                    <div class="flex-shrink-0 flex items-center gap-2">
+                        <div class="w-10 h-10 bg-blue-600 rounded-lg flex items-center justify-center text-white font-bold text-xl">AI</div>
+                        <span class="font-bold text-lg hidden md:block text-blue-900 leading-tight">SAMV University<br><span class="text-sm font-medium text-slate-500">Raichur, India</span></span>
+                    </div>
+                </div>
+                <!-- Desktop Menu -->
+                <div class="hidden lg:flex items-center space-x-6">
+                    <a href="#about" class="text-slate-700 hover:text-blue-600 font-medium">About</a>
+                    <a href="#committee" class="text-slate-700 hover:text-blue-600 font-medium">Committees</a>
+                    <a href="#speakers" class="text-slate-700 hover:text-blue-600 font-medium">Speakers</a>
+                    <a href="#deadlines" class="text-slate-700 hover:text-blue-600 font-medium">Deadlines</a>
+                    <a href="#registration" class="bg-blue-600 text-white px-5 py-2 rounded-full hover:bg-blue-700 transition">Register Now</a>
+                </div>
+                <!-- Mobile menu button -->
+                <div class="lg:hidden flex items-center">
+                    <button onclick="toggleMenu()" class="text-slate-700 focus:outline-none">
+                        <i class="fas fa-bars text-2xl"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <!-- Mobile Navigation -->
+        <div id="mobile-menu" class="hidden lg:hidden bg-white border-t border-slate-100 p-4 space-y-4 shadow-lg">
+            <a href="#about" class="block text-slate-700 font-medium">About Conference</a>
+            <a href="#committee" class="block text-slate-700 font-medium">Organising Committee</a>
+            <a href="#speakers" class="block text-slate-700 font-medium">Keynote Speakers</a>
+            <a href="#deadlines" class="block text-slate-700 font-medium">Deadlines</a>
+            <a href="#registration" class="block bg-blue-600 text-white text-center py-2 rounded-md">Register</a>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="pt-32 pb-20 hero-gradient text-white relative overflow-hidden">
+        <div class="absolute inset-0 opacity-10">
+            <svg width="100%" height="100%"><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="white" stroke-width="1"/></pattern><rect width="100%" height="100%" fill="url(#grid)" /></svg>
+        </div>
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 text-center">
+            <div class="inline-block bg-blue-500 bg-opacity-30 border border-blue-300 rounded-full px-4 py-1 mb-6 text-sm font-semibold tracking-wider uppercase">
+                International Conference 2026
+            </div>
+            <h1 class="text-4xl md:text-6xl font-extrabold mb-6 leading-tight">
+                AI and Its Impact on Next Generation:<br>
+                <span class="text-blue-200">A Futuristic Approach</span>
+            </h1>
+            <p class="text-xl md:text-2xl mb-8 font-light max-w-3xl mx-auto opacity-90">
+                Organised by <strong>Sri Adikavi Maharshi Valmiki University, Raichur</strong>
+            </p>
+            <div class="flex flex-wrap justify-center gap-6 mb-12">
+                <div class="flex items-center gap-2 text-lg">
+                    <i class="far fa-calendar-alt"></i>
+                    <span>19th - 20th May, 2026</span>
+                </div>
+                <div class="flex items-center gap-2 text-lg">
+                    <i class="fas fa-map-marker-alt"></i>
+                    <span>University Auditorium, Raichur</span>
+                </div>
+            </div>
+            
+            <!-- Simple Countdown -->
+            <div id="countdown" class="flex justify-center gap-4 md:gap-8 mb-10">
+                <div class="bg-white/10 p-4 rounded-xl backdrop-blur-md w-24">
+                    <div id="days" class="text-3xl font-bold">--</div>
+                    <div class="text-xs uppercase opacity-75">Days</div>
+                </div>
+                <div class="bg-white/10 p-4 rounded-xl backdrop-blur-md w-24">
+                    <div id="hours" class="text-3xl font-bold">--</div>
+                    <div class="text-xs uppercase opacity-75">Hours</div>
+                </div>
+                <div class="bg-white/10 p-4 rounded-xl backdrop-blur-md w-24">
+                    <div id="minutes" class="text-3xl font-bold">--</div>
+                    <div class="text-xs uppercase opacity-75">Mins</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Key Deadlines -->
+    <section id="deadlines" class="py-16 -mt-12">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                <div class="bg-white p-8 rounded-2xl shadow-xl border-t-4 border-blue-500 deadline-card">
+                    <div class="text-blue-600 mb-4 text-2xl font-bold italic">Step 01</div>
+                    <h3 class="text-xl font-bold mb-2">Paper Submission</h3>
+                    <p class="text-slate-500 mb-4">Submit your research abstracts and full papers online.</p>
+                    <div class="text-red-500 font-bold text-lg">10th May, 2026</div>
+                </div>
+                <div class="bg-white p-8 rounded-2xl shadow-xl border-t-4 border-emerald-500 deadline-card">
+                    <div class="text-emerald-600 mb-4 text-2xl font-bold italic">Step 02</div>
+                    <h3 class="text-xl font-bold mb-2">Early Bird Registration</h3>
+                    <p class="text-slate-500 mb-4">Avail special discounts for early registration.</p>
+                    <div class="text-emerald-600 font-bold text-lg">28th - 29th April, 2026</div>
+                </div>
+                <div class="bg-white p-8 rounded-2xl shadow-xl border-t-4 border-orange-500 deadline-card">
+                    <div class="text-orange-600 mb-4 text-2xl font-bold italic">Step 03</div>
+                    <h3 class="text-xl font-bold mb-2">Regular Registration</h3>
+                    <p class="text-slate-500 mb-4">Standard registration window for all delegates.</p>
+                    <div class="text-orange-600 font-bold text-lg">5th - 6th May, 2026</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="py-20">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid lg:grid-cols-2 gap-16 items-center">
+                <div>
+                    <h2 class="text-3xl font-bold mb-6 text-blue-900">About International Conference</h2>
+                    <div class="w-20 h-1.5 bg-blue-600 mb-8"></div>
+                    <p class="text-slate-600 mb-6 leading-relaxed">
+                        The "AI and Its Impact on Next Generation: A Futuristic Approach" conference aims to bring together leading academic scientists, researchers, and research scholars to exchange and share their experiences and research results on all aspects of Artificial Intelligence.
+                    </p>
+                    <p class="text-slate-600 mb-6 leading-relaxed">
+                        It also provides a premier interdisciplinary platform for researchers, practitioners, and educators to present and discuss the most recent innovations, trends, and concerns as well as practical challenges encountered and solutions adopted in the fields of AI development and its multi-generational impact.
+                    </p>
+                    <ul class="space-y-3 mb-8">
+                        <li class="flex items-center gap-3 text-slate-700">
+                            <i class="fas fa-check-circle text-blue-600"></i> Exploring Generative AI & Large Language Models
+                        </li>
+                        <li class="flex items-center gap-3 text-slate-700">
+                            <i class="fas fa-check-circle text-blue-600"></i> Ethics and Governance in the Age of Autonomy
+                        </li>
+                        <li class="flex items-center gap-3 text-slate-700">
+                            <i class="fas fa-check-circle text-blue-600"></i> AI in Education, Healthcare, and Finance
+                        </li>
+                    </ul>
+                </div>
+                <div class="bg-blue-100 rounded-3xl p-8 relative">
+                    <div class="aspect-video bg-blue-900 rounded-2xl flex items-center justify-center text-white overflow-hidden shadow-2xl">
+                        <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=800" alt="AI Robot" class="w-full h-full object-cover opacity-60">
+                        <div class="absolute inset-0 flex items-center justify-center">
+                            <div class="text-center p-6 bg-white/10 backdrop-blur-md rounded-xl border border-white/20">
+                                <p class="text-xl font-semibold">Future-Ready Innovation</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="absolute -bottom-6 -left-6 bg-white p-6 rounded-2xl shadow-xl max-w-xs">
+                        <p class="text-sm italic font-medium">"AI will not replace humans, but humans using AI will replace those who don't."</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Speakers Section -->
+    <section id="speakers" class="py-20 bg-slate-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <h2 class="text-3xl font-bold text-blue-900">Keynote Speakers</h2>
+                <p class="text-slate-500 mt-2 italic">Visionaries leading the AI revolution</p>
+            </div>
+            <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+                <!-- Placeholder Speakers -->
+                <div class="bg-white rounded-2xl p-6 shadow-sm hover:shadow-md transition text-center group">
+                    <div class="w-32 h-32 rounded-full bg-slate-200 mx-auto mb-6 overflow-hidden border-4 border-blue-50 group-hover:border-blue-400 transition">
+                        <img src="https://i.pravatar.cc/150?u=1" alt="Speaker" class="w-full h-full object-cover">
+                    </div>
+                    <h3 class="font-bold text-lg">Dr. Elena Rodriguez</h3>
+                    <p class="text-blue-600 text-sm mb-4">MIT, USA</p>
+                    <p class="text-slate-500 text-xs">Expert in Neural Networks and Human-Robot Interaction.</p>
+                </div>
+                <div class="bg-white rounded-2xl p-6 shadow-sm hover:shadow-md transition text-center group">
+                    <div class="w-32 h-32 rounded-full bg-slate-200 mx-auto mb-6 overflow-hidden border-4 border-blue-50 group-hover:border-blue-400 transition">
+                        <img src="https://i.pravatar.cc/150?u=2" alt="Speaker" class="w-full h-full object-cover">
+                    </div>
+                    <h3 class="font-bold text-lg">Prof. Arjav Mehta</h3>
+                    <p class="text-blue-600 text-sm mb-4">IIT Delhi, India</p>
+                    <p class="text-slate-500 text-xs">Specialist in AI Policy and Sustainable Future Frameworks.</p>
+                </div>
+                <div class="bg-white rounded-2xl p-6 shadow-sm hover:shadow-md transition text-center group">
+                    <div class="w-32 h-32 rounded-full bg-slate-200 mx-auto mb-6 overflow-hidden border-4 border-blue-50 group-hover:border-blue-400 transition">
+                        <img src="https://i.pravatar.cc/150?u=3" alt="Speaker" class="w-full h-full object-cover">
+                    </div>
+                    <h3 class="font-bold text-lg">Sarah Jenkins</h3>
+                    <p class="text-blue-600 text-sm mb-4">Lead AI Scientist, Google</p>
+                    <p class="text-slate-500 text-xs">Pioneer in Ethical AI and Algorithmic Fairness.</p>
+                </div>
+                <div class="bg-white rounded-2xl p-6 shadow-sm hover:shadow-md transition text-center group">
+                    <div class="w-32 h-32 rounded-full bg-slate-200 mx-auto mb-6 overflow-hidden border-4 border-blue-50 group-hover:border-blue-400 transition">
+                        <img src="https://i.pravatar.cc/150?u=4" alt="Speaker" class="w-full h-full object-cover">
+                    </div>
+                    <h3 class="font-bold text-lg">Dr. Kenji Tanaka</h3>
+                    <p class="text-blue-600 text-sm mb-4">University of Tokyo</p>
+                    <p class="text-slate-500 text-xs">Quantum AI and Advanced Machine Learning specialist.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Committee Section -->
+    <section id="committee" class="py-20">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid lg:grid-cols-2 gap-16">
+                <!-- Organising Committee -->
+                <div>
+                    <h2 class="text-2xl font-bold mb-8 flex items-center gap-3">
+                        <i class="fas fa-users text-blue-600"></i> Organising Committee
+                    </h2>
+                    <div class="bg-white rounded-2xl shadow-sm border border-slate-100 overflow-hidden">
+                        <table class="w-full">
+                            <thead class="bg-blue-900 text-white">
+                                <tr>
+                                    <th class="px-6 py-4 text-left font-semibold">Name</th>
+                                    <th class="px-6 py-4 text-left font-semibold">Designation</th>
+                                </tr>
+                            </thead>
+                            <tbody class="divide-y divide-slate-100">
+                                <tr>
+                                    <td class="px-6 py-4 font-medium">Prof. Shivanand Kelaginiamani, Hon'ble Vice-Chancellor, ASMVU</td>
+                                    <td class="px-6 py-4 text-slate-600">Chief Patron</td>
+                                </tr>
+                                <tr>
+                                    <td class="px-6 py-4 font-medium">Sri. A. Channappa, KAS, Hon'ble Registrar, ASMVU</td>
+                                    <td class="px-6 py-4 text-slate-600">Conference Chair</td>
+                                </tr>
+                                <tr>
+                                    <td class="px-6 py-4 font-medium">Dr. BASAVAPRASAD B.</td>
+                                    <td class="px-6 py-4 text-slate-600">Organising Secretary</td>
+                                </tr>
+                                <tr>
+                                    <td class="px-6 py-4 font-medium">Prof. Jyoti Dhama Prakash, Hon'ble Registrar (Evaluation), ASMVU</td>
+                                    <td class="px-6 py-4 text-slate-600">Joint Secretary</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <!-- Technical Committee -->
+                <div>
+                    <h2 class="text-2xl font-bold mb-8 flex items-center gap-3">
+                        <i class="fas fa-microchip text-blue-600"></i> Technical Committee
+                    </h2>
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                        <div class="bg-slate-50 p-4 rounded-xl border-l-4 border-blue-400">
+                            <p class="font-semibold">Dr. RAVI M.</p>
+                            <p class="text-sm text-slate-500">IISc Bangalore</p>
+                        </div>
+                        <div class="bg-slate-50 p-4 rounded-xl border-l-4 border-blue-400">
+                            <p class="font-semibold">Prof. Sumuyendra Kulkarni, CDC Director, ASMVU</p>
+                            <p class="text-sm text-slate-500">Oxford University</p>
+                        </div>
+                        <div class="bg-slate-50 p-4 rounded-xl border-l-4 border-blue-400">
+                            <p class="font-semibold">Prof. David Wilson</p>
+                            <p class="text-sm text-slate-500">Stanford AI Lab</p>
+                        </div>
+                        <div class="bg-slate-50 p-4 rounded-xl border-l-4 border-blue-400">
+                            <p class="font-semibold">Dr. Nirmala Rao</p>
+                            <p class="text-sm text-slate-500">IIT Bombay</p>
+                        </div>
+                        <div class="bg-slate-50 p-4 rounded-xl border-l-4 border-blue-400">
+                            <p class="font-semibold">Prof. Chen Wei</p>
+                            <p class="text-sm text-slate-500">Tsinghua University</p>
+                        </div>
+                        <div class="bg-slate-50 p-4 rounded-xl border-l-4 border-blue-400">
+                            <p class="font-semibold">Dr. Hans Mueller</p>
+                            <p class="text-sm text-slate-500">Berlin Tech</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Call for Papers (Extra design element) -->
+    <section class="py-20 bg-blue-900 text-white overflow-hidden relative">
+        <div class="absolute right-0 bottom-0 opacity-20 transform translate-x-1/4 translate-y-1/4">
+            <i class="fas fa-brain text-[300px]"></i>
+        </div>
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+            <div class="max-w-3xl">
+                <h2 class="text-4xl font-bold mb-6">Call for Research Papers</h2>
+                <p class="text-blue-100 text-xl mb-8">
+                    We invite original research papers for presentation at the conference. All selected papers will be published in Scopus Indexed journals.
+                </p>
+                <div class="grid sm:grid-cols-2 gap-8 mb-10">
+                    <div class="bg-white/10 p-6 rounded-2xl backdrop-blur-sm border border-white/20">
+                        <i class="fas fa-file-alt text-2xl mb-4 text-blue-300"></i>
+                        <h4 class="font-bold mb-2">Paper Tracks</h4>
+                        <ul class="text-sm text-blue-100 space-y-1">
+                            <li>• Machine Learning & Deep Learning</li>
+                            <li>• AI in Healthcare Systems</li>
+                            <li>• Intelligent Robotics</li>
+                            <li>• Big Data Analytics</li>
+                        </ul>
+                    </div>
+                    <div class="bg-white/10 p-6 rounded-2xl backdrop-blur-sm border border-white/20">
+                        <i class="fas fa-cloud-upload-alt text-2xl mb-4 text-blue-300"></i>
+                        <h4 class="font-bold mb-2">Submission</h4>
+                        <p class="text-sm text-blue-100">Papers must be submitted in IEEE format through our online portal.</p>
+                    </div>
+                </div>
+                <a href="#" class="inline-block bg-white text-blue-900 px-8 py-3 rounded-full font-bold hover:bg-blue-50 transition shadow-lg">Download Templates</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Registration -->
+    <section id="registration" class="py-20 bg-slate-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <h2 class="text-3xl font-bold text-blue-900">Registration Details</h2>
+                <p class="text-slate-500 mt-2">Join global experts at SAMV University Raichur</p>
+            </div>
+            <div class="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+                <div class="bg-white p-8 rounded-3xl shadow-lg border border-slate-100 text-center relative overflow-hidden">
+                    <div class="absolute top-4 right-4 bg-emerald-100 text-emerald-700 px-3 py-1 rounded-full text-xs font-bold uppercase">Best Value</div>
+                    <h3 class="text-2xl font-bold mb-2">Early Bird</h3>
+                    <p class="text-slate-400 mb-6 font-medium">Available 28 - 29 April 2026</p>
+                    <div class="text-4xl font-extrabold text-blue-900 mb-8">?2,500 <span class="text-base font-normal text-slate-400">/ Delegate</span></div>
+                    <ul class="text-left space-y-4 mb-8 text-slate-600">
+                        <li><i class="fas fa-check text-emerald-500 mr-2"></i> Conference Kit & Proceedings</li>
+                        <li><i class="fas fa-check text-emerald-500 mr-2"></i> 2-Day Lunch & High Tea</li>
+                        <li><i class="fas fa-check text-emerald-500 mr-2"></i> Access to all technical sessions</li>
+                        <li><i class="fas fa-check text-emerald-500 mr-2"></i> Participation Certificate</li>
+                    </ul>
+                    <button class="w-full py-4 bg-blue-600 text-white rounded-xl font-bold hover:bg-blue-700 transition">Coming Soon</button>
+                </div>
+                <div class="bg-white p-8 rounded-3xl shadow-lg border border-slate-100 text-center">
+                    <h3 class="text-2xl font-bold mb-2">Regular</h3>
+                    <p class="text-slate-400 mb-6 font-medium">Available 5 - 6 May 2026</p>
+                    <div class="text-4xl font-extrabold text-blue-900 mb-8">?4,000 <span class="text-base font-normal text-slate-400">/ Delegate</span></div>
+                    <ul class="text-left space-y-4 mb-8 text-slate-600">
+                        <li><i class="fas fa-check text-emerald-500 mr-2"></i> Conference Kit & Proceedings</li>
+                        <li><i class="fas fa-check text-emerald-500 mr-2"></i> 2-Day Lunch & High Tea</li>
+                        <li><i class="fas fa-check text-emerald-500 mr-2"></i> Access to all technical sessions</li>
+                        <li><i class="fas fa-check text-emerald-500 mr-2"></i> Participation Certificate</li>
+                    </ul>
+                    <button class="w-full py-4 bg-slate-100 text-slate-400 rounded-xl font-bold cursor-not-allowed">Opens May 5th</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Venue & Contact -->
+    <section class="py-20 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid lg:grid-cols-2 gap-16">
+                <div>
+                    <h2 class="text-2xl font-bold mb-8">Contact Organisers</h2>
+                    <form class="space-y-4">
+                        <div class="grid sm:grid-cols-2 gap-4">
+                            <input type="text" placeholder="Full Name" class="w-full px-4 py-3 rounded-xl border border-slate-200 focus:outline-none focus:ring-2 focus:ring-blue-500 transition">
+                            <input type="email" placeholder="Email Address" class="w-full px-4 py-3 rounded-xl border border-slate-200 focus:outline-none focus:ring-2 focus:ring-blue-500 transition">
+                        </div>
+                        <input type="text" placeholder="Subject" class="w-full px-4 py-3 rounded-xl border border-slate-200 focus:outline-none focus:ring-2 focus:ring-blue-500 transition">
+                        <textarea rows="4" placeholder="Your Query" class="w-full px-4 py-3 rounded-xl border border-slate-200 focus:outline-none focus:ring-2 focus:ring-blue-500 transition"></textarea>
+                        <button type="button" class="bg-blue-600 text-white px-8 py-3 rounded-xl font-bold hover:bg-blue-700 transition w-full">Send Message</button>
+                    </form>
+                </div>
+                <div>
+                    <h2 class="text-2xl font-bold mb-8">Venue Details</h2>
+                    <div class="bg-slate-100 rounded-3xl p-8">
+                        <div class="flex items-start gap-4 mb-8">
+                            <div class="w-12 h-12 bg-white rounded-xl flex items-center justify-center text-blue-600 shadow-sm">
+                                <i class="fas fa-university"></i>
+                            </div>
+                            <div>
+                                <h4 class="font-bold">Sri Adikavi Maharshi Valmiki University, Raichur</h4>
+                                <p class="text-slate-500">Main Campus Auditorium, Raichur-584133,<br>Karnataka, India</p>
+                            </div>
+                        </div>
+                        <div class="flex items-start gap-4 mb-8">
+                            <div class="w-12 h-12 bg-white rounded-xl flex items-center justify-center text-blue-600 shadow-sm">
+                                <i class="fas fa-envelope"></i>
+                            </div>
+                            <div>
+                                <h4 class="font-bold">Email Inquiries</h4>
+                                <p class="text-slate-500">intconferencerur@gmail.com</p>
+                            </div>
+                        </div>
+                        <div class="w-full h-48 bg-slate-300 rounded-2xl overflow-hidden relative">
+                            <!-- Placeholder for map -->
+                            <div class="absolute inset-0 flex items-center justify-center text-slate-500">
+                                <div class="text-center">
+                                    <i class="fas fa-map-marked-alt text-3xl mb-2"></i>
+                                    <p class="text-xs uppercase tracking-widest font-bold">Interactive Map</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-slate-900 text-slate-400 py-12 border-t border-slate-800">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex flex-col md:flex-row justify-between items-center gap-8">
+                <div>
+                    <div class="flex items-center gap-2 mb-4">
+                        <div class="w-8 h-8 bg-blue-600 rounded flex items-center justify-center text-white font-bold">AI</div>
+                        <span class="font-bold text-white text-lg">NextGen AI 2026</span>
+                    </div>
+                    <p class="text-sm">© 2026 Sri Adikavi Maharshi Valmiki University, Raichur. All rights reserved.</p>
+                </div>
+                <div class="flex gap-6 text-xl">
+                    <a href="#" class="hover:text-white transition"><i class="fab fa-twitter"></i></a>
+                    <a href="#" class="hover:text-white transition"><i class="fab fa-linkedin"></i></a>
+                    <a href="#" class="hover:text-white transition"><i class="fab fa-facebook"></i></a>
+                </div>
+                <div class="text-sm">
+                    <a href="#" class="hover:text-white px-2">Privacy Policy</a>
+                    <a href="#" class="hover:text-white px-2">Terms of Service</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Mobile Menu Toggle
+        function toggleMenu() {
+            const menu = document.getElementById('mobile-menu');
+            menu.classList.toggle('hidden');
+        }
+
+        // Countdown Timer Logic
+        const targetDate = new Date("May 19, 2026 09:00:00").getTime();
+
+        const timer = setInterval(() => {
+            const now = new Date().getTime();
+            const distance = targetDate - now;
+
+            const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+
+            document.getElementById("days").innerText = days;
+            document.getElementById("hours").innerText = hours;
+            document.getElementById("minutes").innerText = minutes;
+
+            if (distance < 0) {
+                clearInterval(timer);
+                document.getElementById("countdown").innerHTML = "<div class='text-2xl font-bold'>The Event is Live!</div>";
+            }
+        }, 1000);
+
+        // Simple smooth scroll behavior handles the rest
+    </script>
+</body>
+</html>
+International-Conference-ASMVUR.txt
+Displaying International-Conference-ASMVUR.txt.
